@@ -6,11 +6,16 @@ O Algoritmo de Pell permite a partir da subtração de números ímpares, encont
 
 Como por exemplo, para o cálculo da raiz quadrada de 36:
 
-> 1) 36 - 1 = 35
-> 2) 35 - 3 = 32
-> 3) 32 - 5 = 27
-> 4) 27 - 7 = 20
-> 5) 20 - 9 = 11
-> 6) 11 - 11 = 0
+$$36 - 1 = 35$$
+
+$$35 - 3 = 32$$
+
+$$32 - 5 = 27$$
+
+$$27 - 7 = 20$$
+
+$$20 - 9 = 11$$
+
+$$11 - 11 = 0$$
 
 Como 6 subtrações foram efetuadas, então a resposta é 6.
